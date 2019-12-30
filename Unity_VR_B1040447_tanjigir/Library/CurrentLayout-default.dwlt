@@ -73,7 +73,7 @@ MonoBehaviour:
   m_MinSize: {x: 277, y: 294}
   m_MaxSize: {x: 4002, y: 8044}
   vertical: 1
-  controlID: 142
+  controlID: 100
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -197,7 +197,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 494}
   m_MaxSize: {x: 18008, y: 14044}
   vertical: 0
-  controlID: 119
+  controlID: 99
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -352,7 +352,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 902e0000
       m_LastClickedID: 0
       m_ExpandedIDs: 6afbffff
       m_RenameOverlay:
@@ -370,7 +370,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 10}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -455,20 +455,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/About
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/About
+  - Assets
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\D406\Desktop\TUMT_Unity_VR_B1040447_tanjigir880210\Unity_VR_B1040447_tanjigir
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 60}
-    m_SelectedIDs: 083f0000
-    m_LastClickedID: 16136
-    m_ExpandedIDs: 00000000103300004e3500006036000092360000463700004c3700009e3700009c3c00008a3e0000083f00005c40000000ca9a3b
+    scrollPos: {x: 0, y: 11}
+    m_SelectedIDs: 1c330000
+    m_LastClickedID: 13084
+    m_ExpandedIDs: 000000001c3300005a3500006c3600009e3600005237000058370000aa370000a83c0000963e0000143f00006840000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -496,7 +496,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000103300004e3500006036000092360000463700004c3700009e3700009c3c00008a3e0000083f00005c400000
+    m_ExpandedIDs: 000000001c3300005a3500006c3600009e3600005237000058370000aa370000a83c0000963e0000143f000068400000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -669,9 +669,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 30.729546, y: 2.1345048, z: -6.968608}
+    m_Target: {x: 24.116915, y: 1.1107712, z: -1.3579971}
     speed: 2
-    m_Value: {x: 30.729546, y: 2.1345048, z: -6.968608}
+    m_Value: {x: 24.116915, y: 1.1107712, z: -1.3579971}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -700,13 +700,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.0006100518, y: -0.94178903, z: 0.0017037664, w: -0.33621472}
+    m_Target: {x: 0.05947034, y: 0.8427974, z: -0.09521689, w: 0.52639353}
     speed: 2
-    m_Value: {x: -0.00061004865, y: -0.9417842, z: 0.0017037577, w: -0.336213}
+    m_Value: {x: 0.05947034, y: 0.8427974, z: -0.0952169, w: 0.52639353}
   m_Size:
-    m_Target: 23.46818
+    m_Target: 4.3473315
     speed: 2
-    m_Value: 23.46818
+    m_Value: 4.3473315
   m_Ortho:
     m_Target: 0
     speed: 2

@@ -2,15 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class light : MonoBehaviour
+public class Lightenter : MonoBehaviour
 {
-    public static bool cupenter;
+    public static bool fuckenter;
 
     private void OnTriggerEnter(Collider other)
     {
         if (other.tag == "燈")
         {
-            cupenter = true;
+            fuckenter = true;
 
             print("燈");
         }

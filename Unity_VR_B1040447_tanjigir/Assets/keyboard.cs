@@ -2,13 +2,13 @@
 
 public class keyboard : MonoBehaviour
 {
-    public static bool cupenter;
+    public static bool keyboardenter;
 
     private void OnTriggerEnter(Collider other)
     {
         if (other.tag == "鍵盤")
         {
-            cupenter = true;
+            keyboardenter = true;
 
             print("鍵盤");
         }

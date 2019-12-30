@@ -2,13 +2,13 @@
 
 public class chair : MonoBehaviour
 {
-    public static bool cupenter;
+    public static bool chairenter;
 
     private void OnTriggerEnter(Collider other)
     {
         if (other.tag == "椅子")
         {
-            cupenter = true;
+            chairenter = true;
 
             print("椅子");
         }

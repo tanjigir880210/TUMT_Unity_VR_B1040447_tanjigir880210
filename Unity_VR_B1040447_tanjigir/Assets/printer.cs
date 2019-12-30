@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class printer : MonoBehaviour
 {
-    public static bool cupenter;
+    public static bool printerenter;
 
     private void OnTriggerEnter(Collider other)
     {
         if (other.tag == "列印機")
         {
-            cupenter = true;
+            printerenter = true;
 
             print("列印機");
         }
