@@ -7,11 +7,11 @@ public class complete : MonoBehaviour
 
     private void Update()
     {
-        if (cup.cupenter && printer.printerenter && keyboard.keyboardenter && chair.chairenter && BigLight.BigLightenter && flowerpot.flowerpotenter)
+        if (cup.cupenter && printer.printerenter && keyboard.keyboardenter && chair.chairenter && BigLight.BigLightenter)
         {
             end.SetActive(true);
 
-            print("enter");
+            print("complete");
         }
     }
 }
