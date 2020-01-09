@@ -1,7 +1,10 @@
 ScriptsOnlyBuild:
   usedScripts:
+    Assembly-CSharp-Editor.dll:
+    - ReadmeEditor
     Assembly-CSharp.dll:
     - BigLight
+    - Readme
     - chair
     - complete
     - cup
@@ -1509,4 +1512,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/SampleScenes/ModernOffice_Interior_SampleLayout.unity
-  playerPath: C:/Users/User/Desktop/TUMT_Unity_VR_B1040447_tanjigir880210/EXE/Unity_VR_B1040447_tanjigir.exe
+  playerPath: C:/Users/yvonne88/Desktop/TUMT_Unity_VR_B1040447_tanjigir880210/EXE/Unity_VR_B1040447_tanjigir.exe
